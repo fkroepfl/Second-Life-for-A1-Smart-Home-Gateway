@@ -13,13 +13,19 @@ They are ZigBee/Z-Wave gateways with a LAN port and 2.4/5-GHz WiFi adapters.
 
 It is based on the MediaTek MT7621 SoC and has a Gigabit Ethernet connection.
 
-> The NA502s also has a 3G cellular module, but this will no longer play a role in the future as this cellular service is being phased out.
+Important: Some variants, like the Vera gateway, seem to have a crippled U-Boot that don't allow loading code to SDRAM via TFTP. So far, no solution exists for those gateways.
+
+.. note::
+
+   The NA502s also has a 3G cellular module, but this will no longer play a role in the future as this cellular service is being phased out.
 
 Contents
 --------
 
 .. toctree::
 
+
+   Installation
    TFTP installation instructions
-   usage
-   api
+   Z-Wave and ZigBee
+
