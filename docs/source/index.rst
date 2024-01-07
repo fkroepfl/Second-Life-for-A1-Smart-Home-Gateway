@@ -28,3 +28,5 @@ Contents
    TFTP installation instructions
    Z-Wave and ZigBee
    Others
+   Tags
+
