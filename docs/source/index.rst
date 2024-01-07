@@ -24,8 +24,6 @@ Contents
 
 .. toctree::
 
-
    Installation
    TFTP installation instructions
    Z-Wave and ZigBee
-
