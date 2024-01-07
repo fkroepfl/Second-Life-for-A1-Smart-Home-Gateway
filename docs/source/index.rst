@@ -21,5 +21,6 @@ Contents
 
 .. toctree::
 
+   TFTP installation instructions
    usage
    api
