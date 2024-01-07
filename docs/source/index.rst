@@ -1,10 +1,11 @@
 Welcome to: How to convert an A1 Smart Home Gateway into a WiFi Access Point that also provides a Zwave and a ZigBee module.
 ===================================
+
 .. note::
 
    This project is under active development.
 
-The Sercomm <https://www.sercomm.com/> NA502 is a ZigBee/Z-Wave gateway sold under various brands (e.g. A1 Smart Home Gateway in Austria). It is based on the MediaTek MT7621 SoC with a Gigabit Ethernet port.
+The Sercomm <https://www.sercomm.com> NA502 is a ZigBee/Z-Wave gateway sold under various brands (e.g. A1 Smart Home Gateway in Austria). It is based on the MediaTek MT7621 SoC with a Gigabit Ethernet port.
 
 The NA502 and NA502s_(3G) gateway models form the basis of the smart home services of various providers, such as A1, Mios, Hornbach, etc.
 
