@@ -12,8 +12,7 @@ They are ZigBee/Z-Wave gateways with a LAN port and 2.4/5-GHz WiFi adapters.
 
 It is based on the MediaTek MT7621 SoC and has a Gigabit Ethernet connection.
 
-.. note::
-   The NA502s also has a 3G cellular module, but this will no longer play a role in the future as this cellular service is being phased out.
+> The NA502s also has a 3G cellular module, but this will no longer play a role in the future as this cellular service is being phased out.
 
 Contents
 --------
