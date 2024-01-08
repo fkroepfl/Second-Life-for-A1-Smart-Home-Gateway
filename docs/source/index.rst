@@ -1,5 +1,7 @@
-Welcome to: How to convert an A1 Smart Home Gateway into a WiFi Access Point that also provides a Zwave and a ZigBee module.
+Second electronic life: Continue to use, continue to love ...
 ===================================
+
+Welcome to: How to convert an A1 Smart Home Gateway into a WiFi Access Point that also provides a Zwave and a ZigBee module.
 
 .. note::
 
