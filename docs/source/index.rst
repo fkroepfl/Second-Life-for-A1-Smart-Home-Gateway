@@ -1,7 +1,11 @@
-Second electronic life: Continue to use, continue to love ...
+Second life: Keep using, keep loving ...
 ===================================
 
-Welcome to: How to convert an A1 Smart Home Gateway into a WiFi Access Point that also provides a Zwave and a ZigBee module.
+Your appliances are upgraded for reuse in line with the circular economy. What more could you want when it comes to sustainability?
+
+**So the question simply arises:**
+
+- How can you convert an A1 Smart Home Gateway into a still up-to-date WiFi access point that also offers a Zwave and a ZigBee module?
 
 .. note::
 
