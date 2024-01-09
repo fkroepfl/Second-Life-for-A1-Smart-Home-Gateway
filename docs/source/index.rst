@@ -29,9 +29,9 @@ Contents
 
 .. toctree::
 
-   Installation
-   TFTP installation instructions
-   Z-Wave and ZigBee
+   Preparation
+   OpenWrt Installation
+   Expose Z-Wave and ZigBee
    Others
    Tags
 
