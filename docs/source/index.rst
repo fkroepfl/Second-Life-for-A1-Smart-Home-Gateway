@@ -18,11 +18,9 @@ The NA502 and NA502s_(3G) gateway models therefore form the basis for the smart 
 
 .. note::
 
-   The NA502s also has a 3G cellular module, but this will no longer play a role in the future as this cellular service is being phased out by the mobile network operators.
+- The NA502s also has a 3G cellular module, but this will no longer play a role in the future as this cellular service is being phased out by the mobile network operators.
 
-.. note::
-
-Important: Some variants, like the Vera gateway, seem to have a crippled U-Boot that don't allow loading code to SDRAM via TFTP. So far, no solution exists for those gateways.
+- Important: Some variants, like the Vera gateway, seem to have a crippled U-Boot that don't allow loading code to SDRAM via TFTP. So far, no solution exists for those gateways.
 
 Contents
 --------
