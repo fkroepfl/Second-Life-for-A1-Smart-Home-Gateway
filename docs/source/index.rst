@@ -1,5 +1,5 @@
 Second life: Keep using, keep loving ...
-===================================
+========================================
 
 Your appliances are upgraded for reuse in line with the circular economy. What more could you want when it comes to sustainability?
 
