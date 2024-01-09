@@ -4,7 +4,7 @@ Preparation
 You need a:
 
 - computer device with an Ethernet and serial TTL connection
-- TFTP server and Console App running on your computer
+- TFTP server and Console client running on your computer
 - Sercomm NA502(s) gateway with the cover/housing removed
 - 3-pin serial connection to the unpopulated 4-pin solder pads near the LEDs
  - with the front of the device facing you, the pinout is as follows: GND - TXD - n.a. - RXD. 
