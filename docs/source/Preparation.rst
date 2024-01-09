@@ -1,4 +1,4 @@
-Installation
+Preparation
 ============
 
 still to come ;-)
