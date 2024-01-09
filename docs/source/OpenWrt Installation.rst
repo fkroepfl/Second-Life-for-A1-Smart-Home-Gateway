@@ -1,5 +1,5 @@
-TFTP installation instructions
-==============================
+OpenWrt Installation
+====================
 
 .. _How to:
 
