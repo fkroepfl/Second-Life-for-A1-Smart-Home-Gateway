@@ -1,16 +1,17 @@
 Second life: Keep using, keep loving ...
 ========================================
+.. note::
+
+   This project is under active development.
+
+**Driving reasons, considerations and trends:**
 
 - Upgrading your appliances for reuse is absolutely in line with the circular economy. 
 - What more could you want when it comes to preserving value and sustainability?
 
 **So the question simply arises:**
 
-- How can you convert an A1 Smart Home Gateway into a still up-to-date WiFi access point that also offers a Zwave and a ZigBee module?
-
-.. note::
-
-   This project is under active development.
+- How can you convert an ´A1 Smart Home Gateway´ into a still up-to-date WiFi access point that also offers a Zwave and a ZigBee module?
 
 The `Sercomm <https://www.sercomm.com>`_ NA502 is a ZigBee/Z-Wave gateway and was developed for various solutions of different brands, such as A1 Smart Home Gateway in Austria. It is based on the MediaTek MT7621 SoC with a Gigabit Ethernet port, Z-Wave and ZigBee modules as well as 2.4/5-GHz WiFi adapters
 
