@@ -37,4 +37,4 @@ Contents
 
 .. note::
 
-   The author assumes no responsibility or liability for any errors or omissions in the content of this website. The information contained on this website is provided without any guarantee of completeness, accuracy, usefulness, reliability, permission from third parties or timeliness. Any imitation of the activities described here is entirely at your own risk.
+   THE INFORMATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE INFORMATION GIVEN OR THE USE OR OTHER DEALINGS IN THE INFORMATION.
